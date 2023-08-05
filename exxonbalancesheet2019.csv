@@ -1,0 +1,38 @@
+Balance_sheet,Year,Amount
+Assets          ,2019-12-31,
+Current assets  ,2019-12-31,
+Cash and cash equivalents                    ,2019-12-31,3089
+Notes and accounts receivable - net           ,2019-12-31,26966
+Inventories,2019-12-31,
+"Crude oil, products and merchandise         ",2019-12-31,14010
+Materials and supplies                       ,2019-12-31,4518
+Other current assets                         ,2019-12-31,1469
+Total current assets                         ,2019-12-31,50052
+"Investments, advances and long-term receivables   ",2019-12-31,43164
+"Property, plant and equipment, at cost, less accumulated depreciation and depletion ",2019-12-31,253018
+"Other assets, including intangibles - net     ",2019-12-31,16363
+Total assets                                  ,2019-12-31,362597
+Liabilities                              ,2019-12-31,
+Current liabilities                           ,2019-12-31,
+Notes and loans payable                       ,2019-12-31,20578
+Accounts payable and accrued liabilities      ,2019-12-31,41831
+Income taxes payable                      ,2019-12-31,1580
+Total current liabilities                    ,2019-12-31,63989
+Long-term debt                                ,2019-12-31,26342
+Postretirement benefits reserves              ,2019-12-31,22304
+Deferred income tax liabilities              ,2019-12-31,25620
+Long-term obligations to equity companies     ,2019-12-31,3988
+Other long-term obligations                  ,2019-12-31,21416
+Total liabilities                           ,2019-12-31,163659
+Commitments and contingencies             ,2019-12-31,
+Equity                                      ,2019-12-31,
+Common stock without par value                ,2019-12-31,15637
+"(9,000 million shares authorized, 8,019 million shares issued)   ",2019-12-31,421341
+Earnings reinvested                       ,2019-12-31,-19493
+Accumulated other comprehensive income     ,2019-12-31,
+Common stock held in treasury,2019-12-31,
+"(3,780 million shares in 2021 and 3,786 million shares in 2020)  ",2019-12-31,-225835
+ExxonMobil share of equity              ,2019-12-31,191650
+Noncontrolling interests                    ,2019-12-31,7288
+Total equity                                  ,2019-12-31,198938
+Total liabilities and equity                 ,2019-12-31,362597

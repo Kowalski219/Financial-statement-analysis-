@@ -1,0 +1,43 @@
+balance_sheet,year,amount
+ASSETS,2018-12-31,
+Non-current assets,2018-12-31,
+"Intangible assets, net (Notes 4 & 7)",2018-12-31,28922
+"Property, plant and equipment, net (Notes 4 & 7)",2018-12-31,113324
+Equity affiliates: investments and loans ,2018-12-31,23444
+Other investments ,2018-12-31,1421
+Non-current financial assets ,2018-12-31,680
+Deferred income taxes ,2018-12-31,6663
+Other non-current assets ,2018-12-31,2509
+TOTAL NON-CURRENT ASSETS,2018-12-31,176963
+Current assets,2018-12-31,
+"Inventories, net ",2018-12-31,14880
+"Accounts receivable, net ",2018-12-31,17270
+Other current assets ,2018-12-31,14724
+Current financial assets ,2018-12-31,3654
+Cash and cash equivalents ,2018-12-31,27907
+Assets classified as held for sale ,2018-12-31,1364
+TOTAL CURRENT ASSETS,2018-12-31,79799
+TOTAL ASSETS,2018-12-31,256762
+LIABILITIES & SHAREHOLDERS' EQUITY,2018-12-31,
+Shareholders' equity,2018-12-31,
+Common shares,2018-12-31,8227
+Paid-in surplus and retained earnings,2018-12-31,120569
+Currency translation adjustment,2018-12-31,-11313
+Treasury shares,2018-12-31,-1843
+TOTAL SHAREHOLDERS' EQUITY - TotalEnergies SHARE ,2018-12-31,115640
+Non-controlling interests,2018-12-31,2474
+TOTAL SHAREHOLDERS' EQUITY,2018-12-31,118114
+Non-current liabilities,2018-12-31,
+Deferred income taxes ,2018-12-31,11490
+Employee benefits ,2018-12-31,3363
+Provisions and other non-current liabilities ,2018-12-31,21432
+Non-current financial debt ,2018-12-31,40129
+TOTAL NON-CURRENT LIABILITIES,2018-12-31,76414
+Current liabilities,2018-12-31,
+Accounts payable,2018-12-31,26134
+Other creditors and accrued liabilities ,2018-12-31,22246
+Current borrowings ,2018-12-31,13306
+Other current financial liabilities ,2018-12-31,478
+Liabilities directly associated with the assets classified as held for sale ,2018-12-31,70
+TOTAL CURRENT LIABILITIES,2018-12-31,62234
+TOTAL LIABILITIES & SHAREHOLDERS' EQUITY,2018-12-31,256762
